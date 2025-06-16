@@ -1,12 +1,22 @@
-## Hi there 👋
+# 罗晔课题组 / 安全智能计算实验室
 
-<!--
+> **指导老师**: [罗晔副教授](https://informatics.xmu.edu.cn/info/1425/43900.htm)  
+> **地点**: [厦门大学](https://www.xmu.edu.cn/)[翔安校区](https://xaxq.xmu.edu.cn/)西部片区[信息学院](https://informatics.xmu.edu.cn/index.htm)智信楼（5号楼）225  
+> **联系邮箱**: luoye@xmu.edu.cn  
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 实验室简介
+安全智能计算实验室由罗晔副教授指导。欢迎对相关领域感兴趣的同学加入。
+
+---
+
+## 研究方向
+- 隐私保护与可信计算  
+- 人工智能
+
+---
+
+## 如何加入
+欢迎有意愿的同学先联系罗老师了解课题组招生名额剩余情况，再通过邮件自我介绍，并附上简历、成绩单等材料。
+
