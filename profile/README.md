@@ -7,7 +7,7 @@
 ---
 
 ## 实验室简介
-罗晔老师课题组，也称作安全智能计算实验室隶属于[厦门大学](https://www.xmu.edu.cn/)[信息学院](https://informatics.xmu.edu.cn/index.htm)，由计算机科学与技术系的[罗晔](https://informatics.xmu.edu.cn/info/1425/43900.htm)  副教授指导。欢迎对相关领域感兴趣的同学加入。
+罗晔老师课题组，也称作安全智能计算实验室，隶属于[厦门大学](https://www.xmu.edu.cn/)[信息学院](https://informatics.xmu.edu.cn/index.htm)，由计算机科学与技术系的[罗晔](https://informatics.xmu.edu.cn/info/1425/43900.htm)  副教授指导。欢迎对相关领域感兴趣的同学加入。
 
 ---
 
